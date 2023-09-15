@@ -74,5 +74,6 @@ class Program
                     break;
             }
         }
+        Thread.Sleep(2000);
     }
 }
